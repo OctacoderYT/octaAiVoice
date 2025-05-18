@@ -89,7 +89,7 @@ function App() {
   return (
     <div className={`app ${isDarkMode ? "dark" : "light"}`}>
       <div className="container">
-        <h2>Text To AI Generated Voice Converter</h2>
+        <h2>Octa Voice AI</h2>
 
         <textarea
           value={text}
